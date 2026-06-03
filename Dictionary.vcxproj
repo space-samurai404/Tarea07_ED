@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AVLTree.cpp" />
-    <ClCompile Include="BSTDictionary.cpp" />
     <ClCompile Include="Dictionary.cpp" />
   </ItemGroup>
   <ItemGroup>

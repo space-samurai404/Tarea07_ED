@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:BSTDictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Pair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:Pair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:BSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\UnsortedListDictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:UnsortedListDictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:Dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:BSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,33 +54,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pair.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Pair.h",
+              "RelativeDocumentMoniker": "Pair.h",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Pair.h",
+              "RelativeToolTip": "Pair.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-03T22:59:24.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BSTDictionary.h",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTDictionary.h",
               "RelativeDocumentMoniker": "BSTDictionary.h",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTDictionary.h",
               "RelativeToolTip": "BSTDictionary.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-06-03T21:56:29.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UnsortedListDictionary.h",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\UnsortedListDictionary.h",
               "RelativeDocumentMoniker": "UnsortedListDictionary.h",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\UnsortedListDictionary.h",
               "RelativeToolTip": "UnsortedListDictionary.h",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-06-03T21:55:21.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Dictionary.h",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Dictionary.h",
               "RelativeDocumentMoniker": "Dictionary.h",
@@ -89,20 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BSTree.h",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTree.h",
               "RelativeDocumentMoniker": "BSTree.h",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTree.h",
               "RelativeToolTip": "BSTree.h",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAGMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-06-03T20:24:51.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BSTNode.h",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTNode.h",
               "RelativeDocumentMoniker": "BSTNode.h",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Arraylist.h",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Arraylist.h",
               "RelativeDocumentMoniker": "Arraylist.h",
@@ -123,8 +140,7 @@
               "RelativeToolTip": "Arraylist.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-03T20:22:25.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T20:22:25.372Z"
             }
           ]
         }

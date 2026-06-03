@@ -17,7 +17,7 @@ public:
 	}
 	Pair(K key, V value) {
 		this->key = key;
-		this->value - value;
+		this->value = value;
 	}
 
 	bool operator==(const Pair<K, V>& other) {
@@ -34,6 +34,10 @@ public:
 
 	bool operator>(const Pair<K, V>& other) {
 		return key > other.key;
+	}
+
+	bool operator<(const Pair<K, V>& other) {
+		return key < other.key;
 	}
 
 	bool operator>=(const Pair<K, V>& other) {

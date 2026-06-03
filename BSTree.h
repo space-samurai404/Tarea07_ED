@@ -32,7 +32,7 @@ private:
 			return current->element;
 		}
 		if (element < current->element) {
-			return findAux(current->right, element);
+			return findAux(current->left, element);
 		}
 	}
 
@@ -47,7 +47,7 @@ private:
 			return current;
 		}
 		if (element > current->element) {
-			current->right = remove(current->right, element, result);
+			current->right = removeAux(current->right, element, result);
 			return current;
 		}
 		*result = current->element;
@@ -60,9 +60,9 @@ private:
 			delete current;
 			return child;
 		}
-		BSTNode<E> successor = getSuccessor(current);
+		BSTNode<E>* successor = getSuccessor(current);
 		swap(successor, current);
-		current->rignt = removeAux(current->right, element, result);
+		current->right = removeAux(current->right, element, result);
 		return current;
 
 	}
@@ -96,7 +96,8 @@ private:
 			return;
 		}
 		getElementsAux(current->left, elements);
-		elements->append();
+		elements->append(current->getElement());
+		getElementsAux(current->right(), elements);
 	}
 
 	void printAux(BSTNode<E>* current) {
@@ -124,16 +125,9 @@ public:
 	}
 
 	E find(E element) {
-		BSTNode<E>* current = root;
+		
 		return findAux(root, element);
-		while (current != nullptr) {
-			if (element == current->element) {
-				return current->element;
-			}
-			if (element < current->element) {
-				current = current->left;
-			}
-		}
+		
 	}
 
 	E remove(E element) {
