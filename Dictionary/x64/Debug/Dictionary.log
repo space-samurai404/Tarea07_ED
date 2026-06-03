@@ -1,0 +1,6 @@
+﻿  AVLTree.cpp
+  Dictionary.cpp
+C:\Users\paula\OneDrive\Documentos\Proyectos ED\Dictionary\Dictionary.cpp(21,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\paula\OneDrive\Documentos\Proyectos ED\Dictionary\Dictionary.cpp(38,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Dictionary.vcxproj -> C:\Users\paula\OneDrive\Documentos\Proyectos ED\Dictionary\x64\Debug\Dictionary.exe

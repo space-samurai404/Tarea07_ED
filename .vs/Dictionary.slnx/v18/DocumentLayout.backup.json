@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\AVLTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:AVLTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\DLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:DLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\BSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:BSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\BSTNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:BSTNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\Dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:Dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\UnsortedListDictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:UnsortedListDictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\Arraylist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:Arraylist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\Dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:Dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DLinkedList.h",
+              "DocumentMoniker": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\DLinkedList.h",
+              "RelativeDocumentMoniker": "DLinkedList.h",
+              "ToolTip": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\DLinkedList.h",
+              "RelativeToolTip": "DLinkedList.h",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-29T16:35:14.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AVLTree.h",
+              "DocumentMoniker": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\AVLTree.h",
+              "RelativeDocumentMoniker": "AVLTree.h",
+              "ToolTip": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\AVLTree.h",
+              "RelativeToolTip": "AVLTree.h",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAGEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-29T15:41:06.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BSTree.h",
+              "DocumentMoniker": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\BSTree.h",
+              "RelativeDocumentMoniker": "BSTree.h",
+              "ToolTip": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\BSTree.h",
+              "RelativeToolTip": "BSTree.h",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAALgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-20T17:06:13.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BSTNode.h",
+              "DocumentMoniker": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\BSTNode.h",
+              "RelativeDocumentMoniker": "BSTNode.h",
+              "ToolTip": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\BSTNode.h",
+              "RelativeToolTip": "BSTNode.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-20T17:04:10.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.h",
+              "DocumentMoniker": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\List.h",
+              "RelativeDocumentMoniker": "List.h",
+              "ToolTip": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\List.h",
+              "RelativeToolTip": "List.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T16:08:25.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arraylist.h",
+              "DocumentMoniker": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\Arraylist.h",
+              "RelativeDocumentMoniker": "Arraylist.h",
+              "ToolTip": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\Arraylist.h",
+              "RelativeToolTip": "Arraylist.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T15:43:36.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnsortedListDictionary.h",
+              "DocumentMoniker": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\UnsortedListDictionary.h",
+              "RelativeDocumentMoniker": "UnsortedListDictionary.h",
+              "ToolTip": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\UnsortedListDictionary.h",
+              "RelativeToolTip": "UnsortedListDictionary.h",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T16:04:39.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dictionary.h",
+              "DocumentMoniker": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\Dictionary.h",
+              "RelativeDocumentMoniker": "Dictionary.h",
+              "ToolTip": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\Dictionary.h",
+              "RelativeToolTip": "Dictionary.h",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-13T16:04:17.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dictionary.cpp",
+              "DocumentMoniker": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\Dictionary.cpp",
+              "RelativeDocumentMoniker": "Dictionary.cpp",
+              "ToolTip": "C:\\Users\\paula\\OneDrive\\Documentos\\Proyectos ED\\Dictionary\\Dictionary.cpp",
+              "RelativeToolTip": "Dictionary.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T15:55:51.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
