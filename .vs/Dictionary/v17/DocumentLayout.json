@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:BSTDictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Pair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:Pair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:BSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\UnsortedListDictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:UnsortedListDictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:Dictionary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:BSTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Pair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|solutionrelative:Pair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A6D4A10-D615-4C2A-AF56-723B3FB869D0}|Dictionary.vcxproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Pair.h",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Pair.h",
               "RelativeDocumentMoniker": "Pair.h",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Pair.h",
               "RelativeToolTip": "Pair.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-06-03T22:59:24.333Z",
               "EditorCaption": ""
@@ -73,14 +73,14 @@
               "RelativeDocumentMoniker": "BSTDictionary.h",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTDictionary.h",
               "RelativeToolTip": "BSTDictionary.h",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAATAAAA",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAAJQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-06-03T21:56:29.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UnsortedListDictionary.h",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\UnsortedListDictionary.h",
               "RelativeDocumentMoniker": "UnsortedListDictionary.h",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Dictionary.h",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\Dictionary.h",
               "RelativeDocumentMoniker": "Dictionary.h",
@@ -106,13 +106,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BSTree.h",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTree.h",
               "RelativeDocumentMoniker": "BSTree.h",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Proyectos ED\\Tarea 7\\BSTree.h",
               "RelativeToolTip": "BSTree.h",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAAAGMAAAAtAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAEMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-06-03T20:24:51.249Z",
               "EditorCaption": ""
@@ -127,8 +127,7 @@
               "RelativeToolTip": "BSTNode.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-03T20:24:43.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T20:24:43.044Z"
             },
             {
               "$type": "Document",

@@ -24,9 +24,9 @@ public:
 
 private:
 	bool find(K key) {
-		Pair<K, V> pair(key, V);
-		return pairs->contains(pair)
-		return false;
+		Pair<K, V> p(key);
+		return pairs->contains(p)
+		
 	}
 
 public:
@@ -42,15 +42,15 @@ public:
 		if (!find(key)) {
 			throw runtime_error("Key not found");
 		}
-		Pair<K, V>p = pairs->remove();
-		return p.Value;
+		Pair<K, V> p(key);
+		return pairs->remove(p).value;
 	}
 
 	V getValue(K key) {
 		if (!find(key)) {
 			throw runtime_error("Key not found");
 		}
-		Pair<K, V>p = pairs->getElement();
+		Pair<K, V> p(key);
 		return p.Value;
 	}
 
@@ -58,8 +58,8 @@ public:
 		if (!find(key)) {
 			throw runtime_error("Key not found");
 		}
-		Pair<K, V> p(key, value);
-		pairs->setElement(p);
+		pairs->remove(Pair<K, V>(key));
+		pairs->insert(Pair<K, V>(key, value));
 	}
 
 	bool contains(K key) {
@@ -76,21 +76,21 @@ public:
 
 	List<K>* getKeys() {
 		List <K>* keys = new ArrayList<K>(getSize());
-		while (!pairs->atEnd) {
-			Pair<K, V> p = pairs->getElement();
-			keys->append(p.key);
-			pairs->next();
+		List <Pair<K, V>>* elements = pairs->getElements();
+		for (elements->goToStart(); !elements->atEnd(); elements->next()) {
+			keys->append(elements->getElement().key);
 		}
+		delete elements;
 		return keys;
 	}
 
 	List<V>* getValues() {
-		List <V>* values = new ArrayList<K>(getSize());
-		while (!pairs->atEnd()) {
-			Pair<K, V> p = pairs->getElement();
-			values->append(p.value);
-			pairs->next();
+		List <V>* values = new ArrayList<V>(getSize());
+		List <Pair<K, V>>* elements = pairs->getElements();
+		for (elements->goToStart(); !elements->atEnd(); elements->next()) {
+			values->append(elements->getElement().value);
 		}
+		delete elements;
 		return values;
 	}
 
@@ -100,29 +100,53 @@ public:
 	}
 
 	void update(Dictionary<K, V>* D) {
-		for (pairs->goToStart(); !pairs->atEnd(); pairs->next()) {
-			Pair<K, V> p = pairs->getElement();
-			if (key == p.key) {
-				return true;
+		List<K>* keys = D->getKeys();//hace una lista de todos los elementos de D
+		for (keys->goToStart(); !keys->atEnd(); keys->next()) {
+			K k = keys->getElement();//los recorre  
+			V v = D->getValue(k);
+			if (find(k)) {
+				setValue(k, v);//si existe, entonces actualiza su valor
+			}
+			else {
+				insert(k, v);//Si no existe, la inserta como un par nuevo
 			}
 			return false;
 		}
 	}
 
-	void zip(List<K>* keys, List<K>* values) {
-
+	void zip(List<K>* keys, List<V>* values) {
+		if (keys->getSize() < values->getSize()) {//Se espera que la listas sean del mismo tamaño, pero en caso de que no lo sean, simplemente se ignoran los últimos elementos de la lista que sea más larga.
+			keys->goToStart();
+			values->goToStart();
+			while (!values->atEnd()) {
+				insert(keys->getElement(), values->getElement());
+				keys->next();
+				values->next();
+			}
+		}
+		else {
+		keys->goToStart();
+		values->goToStart();
+		while (!keys->atEnd()) {
+			insert(keys->getElement(), values->getElement());
+			keys->next();
+			values->next();
+		}
+	}
 	}
 
 	void print() {
+		List<Pair<K, V>>* elements = pairs->getElements();
 		cout << "{";
-		for (pairs->goToStart(); !pairs->atEnd(); pairs->next()) {
-			Pair<K, V>p = pairs->getElement();
+		for (elements->goToStart(); !elements->atEnd(); elements->next()) {
+			Pair<K, V>p = elements->getElement();
 			cout << p.key << " ; " << p.value;
-			if (pairs->getPos() < pairs->getSize() - 1) {
+			if (elements->getPos() < elements->getSize() - 1) {
 				cout << ", ";
 			}
 		}
 		cout << "}";
+		delete elements;
 	}
 
 
